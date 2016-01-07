@@ -23,8 +23,8 @@ January 2016. An informative, interactive, dynamic long-form case study.
 
 ### TODO
 1. ~~Get `git` set up.~~
-2. Transfer Vestal's copy to html.
-3. Placeholders for style (bootstrap?), parallax (skrollr?), d3js, etc.
+2. ~~Transfer Vestal's copy to html.~~
+3. Placeholders for style (~~bootstrap?~~), parallax (skrollr?), ~~d3js~~, etc.
 4. Gather Flickr etc. pics.
 5. Make GIFs!
 6. Wireframe.
