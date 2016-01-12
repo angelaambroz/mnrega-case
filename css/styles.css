@@ -1,16 +1,38 @@
 .navbar-default {
   border: none;
+  font: 300 'Franklin Gothic Medium', sans-serif;
 }
 
 .test {
-	width: 600px;
+	width: 700px;
 }
 
 header {
   background: url('../images/headerimage.jpg') center center no-repeat;
+  font: 200 14px 'Franklin Gothic Medium', sans-serif;
   /*height: 600px;*/
 }
 
 .todo, .flare {
 	background-color: #fff9b1;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+.test p {
+	font: 300 16px 'Nunito', sans-serif;
+}
+
+.aside p {
+	font-size: small;
+	font: 12px 'PT Sans', sans-serif;
+	/*width: 180px;*/
+	/*position: absolute;*/
+	/*right: 0;*/
+}
+
+.aside img {
+	width: 50px;
 }

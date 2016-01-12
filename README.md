@@ -28,8 +28,11 @@ January 2016. An informative, interactive, dynamic long-form case study.
 4. Gather Flickr etc. pics.
 5. Make GIFs!
 6. Wireframe.
-7. NREGA history? The process of getting NREGA up?
+7. ~~NREGA history? The process of getting NREGA up?~~ (Vestal TODO.)
 8. Random blip on span#future.
-9. Fonts.
+9. ~~Fonts.~~
 10. Colors. 
 11. Heading colors (divs, background-color?).
+12. Side captions: ~~style~~, position, event handler.
+13. Portrait pictures (Photoshopped?).
+14. Call-out text.
