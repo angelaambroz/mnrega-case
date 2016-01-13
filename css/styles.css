@@ -7,6 +7,10 @@
 	width: 700px;
 }
 
+.popover {
+	max-width: 50%;
+}
+
 header {
   background: url('../images/headerimage.jpg') center center no-repeat;
   font: 200 14px 'Franklin Gothic Medium', sans-serif;
