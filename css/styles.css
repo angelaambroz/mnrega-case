@@ -1,3 +1,7 @@
+body {
+	position: relative;
+}
+
 .navbar-default {
   border: none;
   font: 300 'Franklin Gothic Medium', sans-serif;
