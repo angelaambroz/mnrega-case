@@ -1,6 +1,5 @@
 body {
 	position: relative;
-	font-family: 'Helvetica', sans-serif;
 }
 
 
@@ -10,15 +9,11 @@ body {
 }
 
 .test {
-	width: 700px;
+	width: 800px;
 }
 
 .popover {
 	max-width: 50%;
-}
-
-header {
-  font: 200 14px 'Franklin Gothic Medium', sans-serif;
 }
 
 .todo, .flare {
@@ -29,16 +24,26 @@ h1, h2, h3, h4 {
 	font-family: 'Franklin Gothic Medium', sans-serif;
 }
 
+#sidebar-wrapper {
+	font: 200 16px 'Franklin Gothic Medium', sans-serif;
+}
+
 .test p {
-	font: 300 16px 'Nunito', sans-serif;
+	font: 200 18px/25px 'Garamond', serif;
 }
 
 .aside p {
 	font-size: small;
 	font: 12px 'PT Sans', sans-serif;
-	/*width: 180px;*/
-	/*position: absolute;*/
-	/*right: 0;*/
+}
+
+.aside>button {
+	font-family: serif;
+	background-color: #fff;
+}
+
+.aside>button:active {
+	background-color: #fff;
 }
 
 .aside img {

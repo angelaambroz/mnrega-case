@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/simple-sidebar.css">
   <link rel="stylesheet" href="css/styles.css">
   <link href='https://fonts.googleapis.com/css?family=Nunito:300,400' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:300,400,400italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic' rel='stylesheet' type='text/css'>
   <title>MGNREGA case study</title>
 </head>
@@ -23,21 +24,27 @@
           <li class="sidebar-brand">
             <img alt="EPoD logo" src="images/logo.png" height="35px" class="img-responsive">
           </li>
-          <li>
-              <a href="#top">Introduction</a>
-          </li>
-          <li>
-              <a href="#thesis">Our thesis</a>
-          </li>
-          <li>
-              <a href="#nrega">NGREGA: Background</a>
-          </li>
-          <li>
-              <a href="#future">Looking ahead</a>
-          </li>
-          <li>
-              <a href="#bigpic">The big picture</a>
-          </li>
+          <!-- TODO: Fix this awful formatting -->
+<!--           <li>
+          <p>This case study lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas totam saepe tempora facere harum, suscipit adipisci vitae fugit quasi autem nemo, tenetur asperiores sed minus eligendi consectetur quam, nisi perspiciatis.</p>
+          </li> -->
+          <div id="sidestyle">
+            <li>
+                <a href="#top">Introduction</a>
+            </li>
+            <li>
+                <a href="#thesis">Our thesis</a>
+            </li>
+            <li>
+                <a href="#nrega">NGREGA: Background</a>
+            </li>
+            <li>
+                <a href="#future">Looking ahead</a>
+            </li>
+            <li>
+                <a href="#bigpic">The big picture</a>
+            </li>
+          </div>
       </ul>
   </div>
 <!-- end sidebar -->
@@ -58,9 +65,8 @@
       <h1 id="top">MGNREGA title</h1>
       <h5>by Vestal McIntyre, Eric Dodge and Angela Ambroz</h5>
       <h5>February 2016</h5>
+      <br>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos iure repellat esse voluptate quis totam autem ipsum, quidem excepturi itaque non, harum in nemo architecto dicta aspernatur incidunt, natus dolorem.</p>
-
-        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
 
       <h2 id="thesis">Thesis</h2>
         <p>Even the world's largest development efforts are still implemented by individuals at the local level. Data can both enable these people to do their jobs and be used to hold them accountable when they fail. Collecting data and making it open is the key to avoid "black box" systems that fail to deliver because of inefficiency and corruption. Right?</p>
@@ -70,7 +76,19 @@
       <div class="pull-right">
         <img src="images/portrait.jpg" alt="Schopenhauer!!!!" class="img-responsive">
       </div>
-        <button type="button" class="btn btn-lg" data-placement="left" data-toggle="popover" title="Interview with Santosh Matthew: Investing in IT" data-content="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, quas ut vitae aperiam, dolor ab! Praesentium nisi, beatae. Earum, dolor! Accusamus incidunt assumenda hic accusantium adipisci voluptates maiores sapiente facilis! Fugit nam nobis aliquam ad quasi, autem itaque distinctio libero in corporis adipisci nihil, quae ullam at reprehenderit neque quaerat eos amet tempore. Facilis esse obcaecati sequi rerum, et. Provident distinctio eveniet mollitia sequi inventore voluptatem quasi eos libero facere aliquam quisquam, excepturi quaerat, enim accusamus explicabo ipsum. Eveniet necessitatibus nemo earum molestias laborum debitis illo vitae expedita rem praesentium non pariatur culpa, nobis distinctio quas quisquam temporibus. Sit facilis sapiente suscipit in, aut repellendus, cumque laudantium voluptatum quisquam vero saepe maxime non beatae consequuntur tempora quos minus excepturi, dolor tempore porro iusto ducimus nemo a. Vero consectetur blanditiis voluptates tenetur repellendus veritatis aliquid debitis voluptatem sunt atque, obcaecati ipsam, a repellat error harum suscipit cumque id! Optio, dignissimos impedit minus magni, voluptas aliquid voluptates aliquam odio eius beatae debitis accusantium officia tenetur, animi quae nihil vitae porro fuga sint molestias perferendis commodi. Quis cupiditate sit minus aut modi similique optio error velit, ex animi labore officiis nemo laboriosam impedit culpa aliquam voluptas voluptates provident distinctio aspernatur a maiores fuga.">Read more.</button>
+        <button type="button" 
+                class="btn btn-lg" 
+                data-placement="left" 
+                data-toggle="popover"
+                data-html="true" 
+                title="Interview with Santosh Matthew: Investing in IT" 
+                data-content="
+                <h4>Hi!</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, quas ut vitae aperiam, dolor ab! Praesentium nisi, beatae. Earum, dolor! Accusamus incidunt assumenda hic accusantium adipisci voluptates maiores sapiente facilis! Fugit nam nobis aliquam ad quasi, autem itaque distinctio libero in corporis adipisci nihil, quae ullam at reprehenderit neque quaerat eos amet tempore. Facilis esse obcaecati sequi rerum, et.</p> 
+
+                <p>Provident distinctio eveniet mollitia sequi inventore voluptatem quasi eos libero facere aliquam quisquam, excepturi quaerat, enim accusamus explicabo ipsum. Eveniet necessitatibus nemo earum molestias laborum debitis illo vitae expedita rem praesentium non pariatur culpa, nobis distinctio quas quisquam temporibus. Sit facilis sapiente suscipit in, aut repellendus, cumque laudantium voluptatum quisquam vero saepe maxime non beatae consequuntur tempora quos minus excepturi, dolor tempore porro iusto ducimus nemo a.</p> 
+
+                <p>Vero consectetur blanditiis voluptates tenetur repellendus veritatis aliquid debitis voluptatem sunt atque, obcaecati ipsam, a repellat error harum suscipit cumque id! Optio, dignissimos impedit minus magni, voluptas aliquid voluptates aliquam odio eius beatae debitis accusantium officia tenetur, animi quae nihil vitae porro fuga sint molestias perferendis commodi. Quis cupiditate sit minus aut modi similique optio error velit, ex animi labore officiis nemo laboriosam impedit culpa aliquam voluptas voluptates provident distinctio aspernatur a maiores fuga.</p>">Read more.</button>
     </section>
 
   </div> <!-- row -->
