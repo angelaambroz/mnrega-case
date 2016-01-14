@@ -49,3 +49,6 @@ January 2016. An informative, interactive, dynamic long-form case study.
 13. Portrait pictures (Photoshopped?).
 14. ~~Call-out text.~~
 15. ~~Sidebar (LHS).~~
+16. Logos (UKaid usage?).
+17. Sidebar caption ("All photos copyright..."), explanation?
+18. Contact info?

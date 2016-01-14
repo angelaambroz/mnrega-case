@@ -29,6 +29,10 @@ h1, h2, h3, h4 {
 	font-family: 'Franklin Gothic Medium', sans-serif;
 }
 
+#datetime {
+	color: gray;
+}
+
 #sidebar-wrapper {
 	font: 200 16px 'Franklin Gothic Medium', sans-serif;
 }
