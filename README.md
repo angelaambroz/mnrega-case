@@ -21,6 +21,7 @@ January 2016. An informative, interactive, dynamic long-form case study.
 * [Bootstrap - Popovers](https://getbootstrap.com/javascript/#popovers)
 * [Bootstrap - Scrollspy](https://getbootstrap.com/javascript/#scrollspy)
 * [Wrapping text around element](https://stackoverflow.com/questions/6217907/wrapping-text-block-elements-around-images)
+* [Simple sidebar template](http://startbootstrap.com/template-overviews/simple-sidebar/)
 
 #### Misc.
 * [placehold.it](https://placehold.it/)
@@ -42,3 +43,4 @@ January 2016. An informative, interactive, dynamic long-form case study.
 12. Side captions: ~~style~~, position, ~~event handler.~~
 13. Portrait pictures (Photoshopped?).
 14. Call-out text.
+15. ~~Sidebar (LHS).~~

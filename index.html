@@ -5,6 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/simple-sidebar.css">
   <link rel="stylesheet" href="css/styles.css">
   <link href='https://fonts.googleapis.com/css?family=Nunito:300,400' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic' rel='stylesheet' type='text/css'>
@@ -12,41 +13,60 @@
 </head>
 <body>
 
-<!-- We could put the TOC up here -->
-<header>
-  <nav class="navbar navbar-default" role="navigation">
-    <div class="container">
-      
-      <div id="scrolled"></div>
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#">table of contents</span></a>
-        </div>
+<!-- No header! -->
 
-        <ul class="nav navbar-nav navbar-right" >
-          <li><a href="#thesis">thesis</a></li>
-          <li><a href="#nrega">MGNREGA</a></li>
-          <li><a href="#bigpic">the big picture</a></li>
-        </ul>
-      </div>
-    </div>
+<div id="wrapper">
 
+<!-- Sidebar -->
+  <div id="sidebar-wrapper">
+      <ul class="sidebar-nav">
+          <li class="sidebar-brand">
+            <img alt="EPoD logo" src="images/logo.png" height="35px" class="img-responsive">
+          </li>
+          <li>
+              <a href="#top">Introduction</a>
+          </li>
+          <li>
+              <a href="#thesis">Our thesis</a>
+          </li>
+          <li>
+              <a href="#nrega">NGREGA: Background</a>
+          </li>
+          <li>
+              <a href="#future">Looking ahead</a>
+          </li>
+          <li>
+              <a href="#bigpic">The big picture</a>
+          </li>
+      </ul>
+  </div>
+<!-- end sidebar -->
+
+<!-- Main story -->
+<div id="page-content-wrapper">
+
+  <div>
     <img src="images/DSC_0887.JPG" class="img-responsive" alt="placeholder">
-  </nav>
-</header>
+  </div>
 
 <div class="container-fluid test">
+  
+
+
   <div class="row">
-    <section class="col-sm-8">
-      <h1>MGNREGA title</h1>
+    <section class="col-lg-8">
+      <h1 id="top">MGNREGA title</h1>
       <h5>by Vestal McIntyre, Eric Dodge and Angela Ambroz</h5>
       <h5>February 2016</h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos iure repellat esse voluptate quis totam autem ipsum, quidem excepturi itaque non, harum in nemo architecto dicta aspernatur incidunt, natus dolorem.</p>
+
+        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
 
       <h2 id="thesis">Thesis</h2>
         <p>Even the world's largest development efforts are still implemented by individuals at the local level. Data can both enable these people to do their jobs and be used to hold them accountable when they fail. Collecting data and making it open is the key to avoid "black box" systems that fail to deliver because of inefficiency and corruption. Right?</p>
     </section>
   
-    <section class="col-sm-3 aside">
+    <section class="col-lg-3 aside">
       <div class="pull-right">
         <img src="images/portrait.jpg" alt="Schopenhauer!!!!" class="img-responsive">
       </div>
@@ -155,7 +175,10 @@
   <p>Achieving transparency is more than a matter of casting back a curtain and revealing the truth. Even in a near best-case scenario like ours – a supportive ministry and terabytes of data, all of it open – didn't make for transparent, useful data. It took a technically and politically complex process.</p>
 
 
+</div> <!-- #page-content-wrapper -->
 </div> <!-- .container -->
+</div> <!-- #wrapper -->
+
 <script src="js/jquery-2.1.4.min.js"></script>
 <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script src="js/bootstrap.min.js"></script>

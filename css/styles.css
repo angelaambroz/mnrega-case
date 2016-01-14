@@ -1,6 +1,8 @@
 body {
 	position: relative;
+	font-family: 'Helvetica', sans-serif;
 }
+
 
 .navbar-default {
   border: none;
@@ -16,9 +18,7 @@ body {
 }
 
 header {
-  background: url('../images/headerimage.jpg') center center no-repeat;
   font: 200 14px 'Franklin Gothic Medium', sans-serif;
-  /*height: 600px;*/
 }
 
 .todo, .flare {
