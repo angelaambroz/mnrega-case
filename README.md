@@ -19,6 +19,7 @@ January 2016. An informative, interactive, dynamic long-form case study.
 #### Bootstrap, CSS, etc.
 * [Bootstrap](https://getbootstrap.com/)
 * [Bootstrap - Popovers](https://getbootstrap.com/javascript/#popovers)
+* [Style a popover differently](http://tutsme-webdesign.info/bootstrap-3-popover-with-different-style/)
 * [Bootstrap - Scrollspy](https://getbootstrap.com/javascript/#scrollspy)
 * [Wrapping text around element](https://stackoverflow.com/questions/6217907/wrapping-text-block-elements-around-images)
 * [Simple sidebar template](http://startbootstrap.com/template-overviews/simple-sidebar/)
@@ -32,15 +33,19 @@ January 2016. An informative, interactive, dynamic long-form case study.
 1. ~~Get `git` set up.~~
 2. ~~Transfer Vestal's copy to html.~~
 3. Placeholders for style (~~bootstrap?~~), parallax (skrollr?), ~~d3js~~, etc.
-4. Gather Flickr etc. pics.
+4. Gather pics:
+  * Jan 2016 trip.
+  * Flickr? [pending]
+  * Article? [pending]
+  * Where else?
 5. Make GIFs!
-6. Wireframe.
+6. ~~Wireframe.~~
 7. ~~NREGA history? The process of getting NREGA up?~~ (Vestal TODO.)
 8. Random blip on span#future.
 9. ~~Fonts.~~
 10. Colors. 
 11. Heading colors (divs, background-color?).
-12. Side captions: ~~style~~, position, ~~event handler.~~
+12. Side captions: ~~style~~, ~~*vertical* position~~, ~~event handler,~~ "Read more..." text.
 13. Portrait pictures (Photoshopped?).
-14. Call-out text.
+14. ~~Call-out text.~~
 15. ~~Sidebar (LHS).~~
