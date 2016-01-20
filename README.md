@@ -27,7 +27,7 @@ January 2016. An informative, interactive, dynamic long-form case study.
 #### Misc.
 * [placehold.it](https://placehold.it/)
 * [PlaceKitten](http://placekitten.com/)
-
+* [Photoshare](http://www.photoshare.org/)
 
 ### TODO
 1. ~~Get `git` set up.~~
@@ -52,3 +52,5 @@ January 2016. An informative, interactive, dynamic long-form case study.
 16. Logos (UKaid usage?).
 17. Sidebar caption ("All photos copyright..."), explanation?
 18. Contact info?
+19. Open Data Barometer - live viz vs. screencap?
+20. Photoshare pics?
