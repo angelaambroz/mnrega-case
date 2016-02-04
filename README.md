@@ -54,3 +54,5 @@ January 2016. An informative, interactive, dynamic long-form case study.
 18. Contact info?
 19. Open Data Barometer - live viz vs. screencap?
 20. Photoshare pics?
+21. Sidebar `<blockquote>` size/intensity. 
+22. Sidebar font size.

@@ -21,10 +21,6 @@ body {
 	margin-bottom: 30px;
 }
 
-.todo {
-	background-color: #fff9b1;
-}
-
 h1, h2, h3, h4 {
 	font-family: 'Franklin Gothic Medium', sans-serif;
 }
@@ -45,24 +41,36 @@ h1, h2, h3, h4 {
 	margin-top: 50px;
 }
 
+.lessons {
+	margin-top: 0px;
+}
+
+.btn {
+	white-space: normal;
+}
+
+.aside p, button {
+	background-color: #fff;
+	color: gray;
+	font: 18px/22px 'Franklin Gothic Medium', sans-serif;
+}
+
 .aside p {
-	font-size: small;
-	font: 12px 'PT Sans', sans-serif;
+	color: black;
 }
 
-.aside button {
-	font-family: serif;
-	background-color: #fff;
-}
-
-/*.aside>button:active {
-	background-color: #fff;
-}*/
-
-.aside img {
+/*.aside img {
 	width: 50px;
-}
+}*/
 
 blockquote {
 	font: 600 24px/34px 'Garamond', serif;
 }
+
+
+.popover-content blockquote {
+	color: gray;
+	font: 400 20px/24px 'Garamond', serif;
+}
+
+
