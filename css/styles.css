@@ -67,6 +67,11 @@ blockquote {
 	font: 600 24px/34px 'Garamond', serif;
 }
 
+figcaption {
+	font: 300 16px/20px 'Garamond', serif;
+	color: gray;
+	margin-bottom: 20px;
+}
 
 .popover-content blockquote {
 	color: gray;
