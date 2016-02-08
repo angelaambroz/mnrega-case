@@ -83,9 +83,10 @@
 }
 
 .sidebar-nav > .sidebar-brand {
-    height: 65px;
+    width: 250px;
     font-size: 18px;
     line-height: 60px;
+    margin-left:25px;
 }
 
 .sidebar-nav > .sidebar-brand a {

@@ -49,7 +49,7 @@ January 2016. An informative, interactive, dynamic long-form case study.
 13. Portrait pictures (Photoshopped?).
 14. ~~Call-out text.~~
 15. ~~Sidebar (LHS).~~
-16. Logos (UKaid usage?).
+16. Logos (UKaid usage?) ~~ Move UKAID logo to very end of text with a note thanking them? -ED.
 17. Sidebar caption ("All photos copyright..."), explanation?
 18. Contact info?
 19. Open Data Barometer - live viz vs. screencap?
