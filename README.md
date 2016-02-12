@@ -38,7 +38,7 @@ January 2016. An informative, interactive, dynamic long-form case study.
   * Flickr? [pending]
   * Article? [pending]
   * Where else?
-5. Make GIFs!
+5. ~~Make GIFs!~~
 6. ~~Wireframe.~~
 7. ~~NREGA history? The process of getting NREGA up?~~ (Vestal TODO.)
 8. Random blip on span#future.
