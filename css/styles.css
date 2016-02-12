@@ -60,10 +60,6 @@ h1, h2, h3, h4 {
 	color: black;
 }
 
-/*.aside img {
-	width: 50px;
-}*/
-
 blockquote {
 	font: 600 24px/34px 'Garamond', serif;
 }
@@ -78,5 +74,16 @@ figcaption {
 	color: gray;
 	font: 400 20px/24px 'Garamond', serif;
 }
+
+
+.small-caption {
+	font: 200 14px 'Garamond', serif;
+	color: #adadad;
+	line-height: 110%;
+	margin-top: 15px;
+	width: 150px;
+}
+
+
 
 
