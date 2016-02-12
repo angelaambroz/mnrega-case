@@ -20,6 +20,7 @@ January 2016. An informative, interactive, dynamic long-form case study.
 * [Bootstrap](https://getbootstrap.com/)
 * [Bootstrap - Popovers](https://getbootstrap.com/javascript/#popovers)
 * [Style a popover differently](http://tutsme-webdesign.info/bootstrap-3-popover-with-different-style/)
+* [Click outside a popover to close it](https://stackoverflow.com/questions/152975/how-to-detect-a-click-outside-an-element)
 * [Bootstrap - Scrollspy](https://getbootstrap.com/javascript/#scrollspy)
 * [Wrapping text around element](https://stackoverflow.com/questions/6217907/wrapping-text-block-elements-around-images)
 * [Simple sidebar template](http://startbootstrap.com/template-overviews/simple-sidebar/)
@@ -32,7 +33,7 @@ January 2016. An informative, interactive, dynamic long-form case study.
 ### TODO
 1. ~~Get `git` set up.~~
 2. ~~Transfer Vestal's copy to html.~~
-3. Placeholders for style (~~bootstrap?~~), parallax (skrollr?), ~~d3js~~, etc.
+3. ~~Placeholders for style (~~bootstrap?~~), parallax (skrollr?), ~~d3js~~, etc.~~
 4. Gather pics:
   * Jan 2016 trip.
   * Flickr? [pending]
@@ -43,16 +44,16 @@ January 2016. An informative, interactive, dynamic long-form case study.
 7. ~~NREGA history? The process of getting NREGA up?~~ (Vestal TODO.)
 8. Random blip on span#future.
 9. ~~Fonts.~~
-10. Colors. 
-11. Heading colors (divs, background-color?).
-12. Side captions: ~~style~~, ~~*vertical* position~~, ~~event handler,~~ "Read more..." text.
-13. Portrait pictures (Photoshopped?).
+10. ~~Colors.~~
+11. ~~Heading colors (divs, background-color?).~~
+12. ~~Side captions: ~~style~~, ~~*vertical* position~~, ~~event handler,~~ "Read more..." text.~~
+13. ~~Portrait pictures (Photoshopped?).~~ Not doing this now, but long-term would be nice.
 14. ~~Call-out text.~~
 15. ~~Sidebar (LHS).~~
 16. Logos (UKaid usage?) ~~ Move UKAID logo to very end of text with a note thanking them? -ED.
-17. Sidebar caption ("All photos copyright..."), explanation?
-18. Contact info?
-19. Open Data Barometer - live viz vs. screencap?
-20. Photoshare pics?
-21. Sidebar `<blockquote>` size/intensity. 
-22. Sidebar font size.
+17. ~~Sidebar caption ("All photos copyright..."), explanation?~~
+18. ~~Contact info?~~
+19. ~~Open Data Barometer - live viz vs. screencap?~~
+20. ~~Photoshare pics?~~ Maybe next time.
+21. ~~Sidebar `<blockquote>` size/intensity.~~
+22. ~~Sidebar font size.~~
