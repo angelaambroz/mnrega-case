@@ -1,3 +1,4 @@
+// All below is cobbled together from StackOverflow
 
 $(function () {
 	$('[data-toggle="popover"]').popover()
@@ -8,6 +9,7 @@ $('[data-toggle="popover"]').popover({
 });
 
 $('body').scrollspy({ target: '#scrolled' })
+
 
 $('body').on('click', function (e) {
     $('[data-toggle="popover"]').each(function () {
