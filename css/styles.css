@@ -89,6 +89,10 @@ figcaption {
 	width: 150px;
 }
 
-
-
+.img-sidebar {
+	max-width:85%;
+}
+.img-body {
+	max-width:75%;
+}
 
