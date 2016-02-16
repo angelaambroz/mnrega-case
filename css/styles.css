@@ -90,9 +90,11 @@ figcaption {
 }
 
 .img-sidebar {
-	max-width:85%;
+	max-width:95%;
 }
 .img-body {
-	max-width:75%;
+	margin-top:2%;
+	max-width:85%;
+	margin-bottom:3%;
 }
 
