@@ -34,12 +34,47 @@ h1, h2, h3, h4 {
 	font: 200 16px 'Franklin Gothic Medium', sans-serif;
 }
 
-.test p, .popover {
+.test p, .popover, button.btn.btn-link.btn-inline {
 	font: 200 18px/25px 'Garamond', serif;
 }
+button.btn.btn-link.btn-inline { 
+																padding: 0px;
+																position: relative;
+																top: -2px;
+															}
+
+ p.itl { 
+ 	font-family: 'Garamond', serif;
+ 	font-size: 20px; 
+  line-height: 150%;
+  font-style: italic;
+  word-spacing: 1px;
+  letter-spacing: 0.75px;
+}
+
+.abstract, figure figcaption, .lessons-for-engagement {
+	margin-bottom: 4%;
+	padding-bottom: 3%;
+	border-bottom: 1px solid rgb(150, 150, 150);
+}
+
+.lessons-for-engagement { 
+													border-top: 1px solid rgb(150, 150, 150);
+													margin-top: 4%;
+													padding-top: 2%;
+													 }
 
 .aside {
 	margin-top: 50px;
+}
+
+figure {
+	width: 80%;
+}
+
+figure figcaption {
+  width: 85%;
+  font-weight: bold;
 }
 
 .lessons {
@@ -56,6 +91,26 @@ h1, h2, h3, h4 {
 	font: 18px/22px 'Franklin Gothic Medium', sans-serif;
 }
 
+.positionning--button,
+.positionning--button-2,
+.positionning--button-3,
+.positionning--button-4,
+.positionning--button-5 {
+ 	position: relative;
+  left: -1em;
+  color: #03A9F4;
+}
+.positionning--button {
+ top: -7em;
+}
+
+.positionning--button-2 {
+	top: 12em;
+}
+
+.positionning--button-4 { bottom: 12em;}
+.positionning--button-5 {bottom: 14em;}
+
 .aside p {
 	color: black;
 }
@@ -68,6 +123,20 @@ h1, h2, h3, h4 {
 blockquote {
 	font: 600 24px/34px 'Garamond', serif;
 }
+
+#blockquote, #blockquote p {
+	font: 600 20px/28px 'Garamond', serif;
+}
+
+#blockquote p {
+	color: gray;
+}
+
+#blockquote a, #blockquote p {
+	position: relative;
+  top: 10px;
+}
+
 
 figcaption {
 	font: 300 16px/20px 'Garamond', serif;
@@ -96,5 +165,39 @@ figcaption {
 	margin-top:2%;
 	max-width:85%;
 	margin-bottom:3%;
+}
+
+/* Components */
+ .text-center { text-align: center }
+
+ .little-box {
+ 	width: 133px;
+ 	height: 136px;
+ }
+ .color--black { color: #000; }
+
+.number-1--4{
+text-align: center;
+font-size: 4em !important;
+margin-top: 0.5em;
+margin-bottom: 20px;
+}
+
+button em {
+	font-size: 14px;
+
+}
+
+.lesson--1 {
+	line-height: 0;
+	font-family: 'Garamont' serif;
+}
+
+span.glyphicon.glyphicon-new-window {
+	color: #03A9F4;
+}
+
+.img-test {
+	max-width: 95%;
 }
 
