@@ -41,15 +41,6 @@ button.btn.btn-link.btn-inline {
 	top: -2px;
 					}
 
- p.itl { 
- 	font-family: 'Garamond', serif;
- 	font-size: 20px; 
-  line-height: 150%;
-  font-style: italic;
-  word-spacing: 1px;
-  letter-spacing: 0.75px;
-}
-
 .abstract, figure figcaption, .lessons-for-engagement {
 	margin-bottom: 4%;
 	padding-bottom: 3%;
@@ -222,6 +213,15 @@ span.glyphicon.glyphicon-new-window {
 blockquote p:before, 
 blockquote a:before {
 	content: '\2014 \00A0'
+}
+
+p.itl { 
+  font-family: 'Garamond', serif;
+  font-size: 20px; 
+  line-height: 150%;
+  font-style: italic;
+  word-spacing: 1px;
+  letter-spacing: 0.75px;
 }
 
 
